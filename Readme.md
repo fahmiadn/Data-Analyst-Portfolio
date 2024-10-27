@@ -6,7 +6,7 @@ I am particularly interested in practical applications of data, and I continuall
 
   
 ### Certificates
- ⚬ [Python Intermediate](https://drive.google.com/file/d/19pdQJ9SnK2naIA4iXBU1UhsCcc47rcXZ/view?usp=sharing) (Oct 2024) (DataCamp)
+ ⚬ [Python Intermediate](https://drive.google.com/file/d/19pdQJ9SnK2naIA4iXBU1UhsCcc47rcXZ/view?usp=sharing) (Oct 2024) (DataCamp - Part of Data Analyst in Python)
  
  ⚬ [SQL Intermediate](https://drive.google.com/file/d/1ywP8XfkBmutjtamrrfIP3uigJxF3ljlK/view?usp=sharing) (Sep 2024) (HackerRank) 
  
