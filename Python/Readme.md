@@ -1,12 +1,12 @@
-### Netflix Movies Analysis Project
+## Netflix Movies Analysis Project
 
 This project involved analyzing movie data released by Netflix, focusing on understanding genre trends and movie duration over time. Using Python, I conducted data cleaning, exploratory data analysis (EDA), and data visualization to answer key business questions. The main steps were:
 
-Data Cleaning:
+### Data Cleaning:
 
 Adjusted data types for consistency, removed duplicates, and handled missing values to ensure a reliable dataset for analysis.
 
-#### Exploratory Data Analysis (EDA):
+### Exploratory Data Analysis (EDA):
 
 Addressed specific business questions, such as:
 
@@ -16,10 +16,11 @@ Genres associated with long-duration films: Analyzed which genres tend to have l
 
 Duration trends in comedy films: Compared the duration distribution of comedy films to other genres over the past two decades.
 
-#### Data Visualization:
+###  Data Visualization:
 
 Created visualizations to clearly present insights and patterns, enhancing the interpretability of the findings.
-Libraries Used:
+
+### Libraries Used:
 
 pandas for data manipulation and cleaning
 
