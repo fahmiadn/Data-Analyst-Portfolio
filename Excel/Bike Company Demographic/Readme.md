@@ -1,4 +1,5 @@
 ## Dashboard
 
 
-![Bike Company_page-0001 (1)](https://github.com/user-attachments/assets/edb5810d-b935-4e6f-867b-ccb9841d44a4)
+
+![Bike Company_page-0001 (1)](https://github.com/user-attachments/assets/57289173-6780-4539-a6be-3ab8fed719cc)
