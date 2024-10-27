@@ -1,4 +1,4 @@
-## Fahmi Shiddiq – Aspiring Data Analyst
+## Hello! My name is Fahmi Shiddiq
 
 I am an enthusiastic data analyst with a background in chemical analysis and mapping, pivoting towards data-driven solutions.  I have completed multiple courses to strengthen my analytical skills, including SQL, Python, Excel, and data visualization. My journey in data analytics is fueled by a desire to derive actionable insights from data and support strategic decision-making.
 
