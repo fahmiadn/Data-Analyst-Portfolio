@@ -20,4 +20,4 @@ I am particularly interested in practical applications of data, and I continuall
  
  ⚬ [Basic Statistic](https://drive.google.com/file/d/1TMK5jsuRW-m4Gr935v2h43Yq3fRt0Zqo/view?usp=sharing)  (May 2024) (Industrial Learning)
  
- ⚬ [Intermediate English Speaking Level](https://drive.google.com/file/d/1K5B0CRElg0LmWThQ-2fNaZEPvOlQz7N3/view?usp=sharing)  (Jan 2024)(EPLC)
+ ⚬ [Intermediate English Speaking Level](https://drive.google.com/file/d/1K5B0CRElg0LmWThQ-2fNaZEPvOlQz7N3/view?usp=sharing)  (Jan 2024) (EPLC)
