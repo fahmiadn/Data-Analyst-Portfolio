@@ -254,6 +254,7 @@ JOIN inventory i ON fc.film_id = i.film_id
 JOIN rental r ON i.inventory_id = r.inventory_id 
 GROUP BY dg.category_id, dg.category_name, dg.genre_class, dg.discount
 ORDER BY total_rental;
+
 -- 6. STORE AND STAFF PERFORMANCE
 --- Q1: Provide store performance (including total rental and gross revenue).
 SELECT 
