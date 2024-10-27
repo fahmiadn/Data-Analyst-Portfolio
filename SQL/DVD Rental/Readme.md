@@ -16,5 +16,5 @@ Exported the analysis results to Excel, where I created visualizations to highli
 
 Presented the insights in a structured format, making it easy for stakeholders to understand the data trends and conclusions.
 
-This project demonstrates my SQL proficiency in conducting efficient data analysis and my ability to communicate findings effectively through visualization and presentation.
+This project involved the use of SQL for efficient data analysis, with insights clearly presented through visualizations and structured presentations to ensure accessibility for stakeholders.
 
