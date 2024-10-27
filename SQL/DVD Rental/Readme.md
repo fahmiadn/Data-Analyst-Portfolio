@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/149fd67a-018e-4380-be2a-391302dcd1c0)
+
 ## SQL-Based Data Analysis Project
 
 In this project, I performed data analysis using SQL with PostgreSQL as the database and DBeaver as the GUI. The goal was to conduct an in-depth exploratory data analysis (EDA) to uncover key insights from the dataset. Key steps included:
