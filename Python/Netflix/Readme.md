@@ -1,4 +1,6 @@
-## Netflix Movies Analysis Project
+#![Netflix-Logo](https://github.com/user-attachments/assets/f86d8c9f-c388-4228-9e50-14666a8faec8)
+
+# Netflix Movies Analysis Project
 
 This project involved analyzing movie data released by Netflix, focusing on understanding genre trends and movie duration over time. Using Python, I conducted data cleaning, exploratory data analysis (EDA), and data visualization to answer key business questions. The main steps were:
 
