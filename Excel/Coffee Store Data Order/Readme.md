@@ -8,7 +8,7 @@
 
 In this project, I performed a comprehensive analysis of order and sales data for a coffee shop, utilizing Excel for data handling and dashboard creation to enhance analytical insights. Key steps included:
 
-Data Retrieval and Cleaning:
+⚬  Data Retrieval and Cleaning:
 
 Employed functions like XLOOKUP, INDEX, MATCH, and IF to retrieve customer and product details and to clean data inconsistencies, such as replacing "0" with blank cells.
 
