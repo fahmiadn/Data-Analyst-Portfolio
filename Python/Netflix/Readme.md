@@ -24,11 +24,11 @@ Created visualizations to clearly present insights and patterns, enhancing the i
 
 ### Libraries Used:
 
-pandas for data manipulation and cleaning
+[pandas](https://www.w3schools.com/python/pandas/pandas_intro.asp) for data manipulation and cleaning
 
-numpy for numerical operations
+[numpy](https://www.w3schools.com/python/numpy/numpy_intro.asp) for numerical operations
 
-matplotlib for data visualization
+[matplotlib](https://www.w3schools.com/python/matplotlib_intro.asp) for data visualization
 
 This project demonstrates my ability to perform end-to-end data analysis, from cleaning to visualization, providing actionable insights into movie trends for strategic decision-making.
 
