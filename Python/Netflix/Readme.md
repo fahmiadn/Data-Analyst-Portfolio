@@ -18,6 +18,8 @@ Genres associated with long-duration films: Analyzed which genres tend to have l
 
 Duration trends in comedy films: Compared the duration distribution of comedy films to other genres over the past two decades.
 
+Most frequent movie duration in the 1990s: Identified the duration that appeared most frequently in movies released during the decade.
+
 ###  Data Visualization:
 
 Created visualizations to clearly present insights and patterns, enhancing the interpretability of the findings.
